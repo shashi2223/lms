@@ -8,7 +8,7 @@ Show some ❤️ and 🌟 the repo to support the project
 ## Index ✏️
 
 - [Library Management System 📚](#library-management-system-)
-  - [Video Demo](#video-demo)
+
 - [Index ✏️](#index-️)
 - [Features Of LCMS 🚀](#features-of-lcms-)
 - [Setup 🔥](#setup-)
